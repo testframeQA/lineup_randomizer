@@ -1,0 +1,40 @@
+{
+  "players": [
+    {
+      "name": "Ken Griffey Jr.",
+      "number": 24
+    },
+    {
+      "name": "Mike Scoscia",
+      "number": 14
+    },
+    {
+      "name": "Clayton Kershaw",
+      "number": 22
+    },
+    {
+      "name": "Duke Snider",
+      "number": 4
+    },
+    {
+      "name": "Sandy Koufax",
+      "number": 32
+    },
+    {
+      "name": "Paul Schuey",
+      "number": 44
+    },
+    {
+      "name": "Eric Gagne",
+      "number": 23
+    },
+    {
+      "name": "Krik Gibson",
+      "number": 5
+    },
+    {
+      "name": "Max Power",
+      "number": 3
+    }
+  ]
+}
